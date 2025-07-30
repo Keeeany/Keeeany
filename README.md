@@ -26,7 +26,7 @@
 
   | 🌐 Social | 💾 Bases de Datos & Lenguajes | 💻 Herramientas |
   | --------- | ----------------------------- | --------------- |
-  | <img src="https://skillicons.dev/icons?i=discord,twitter,gmail" alt="social" /> | <img src="https://skillicons.dev/icons?i=mysql,apache,py" alt="languages"/> | <img src="https://skillicons.dev/icons?i=vscode,github,git" alt="tools"/> |
+  | <img src="https://skillicons.dev/icons?i=discord,twitter,gmail" alt="social" /> | <img src="https://skillicons.dev/icons?i=mysql,php,py" alt="languages"/> | <img src="https://skillicons.dev/icons?i=vscode,github,git" alt="tools"/> |
 </div>
 
 <br/>
